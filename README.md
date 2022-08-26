@@ -1,2 +1,2 @@
 # Seminar-26-08
-Seminar
+Seminar **26**
